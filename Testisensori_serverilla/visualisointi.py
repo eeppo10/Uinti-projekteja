@@ -1,8 +1,8 @@
 """
 Author: Eerikki Laitala
+Email: eerikki.laitala@gmail.com
 
-This program reads the binary file that my sensor setup outputs
-After reading it simply visualizes the output in some graphs
+This program reads the binary file and simply visualizes the output in some nice graphs
 """
 import struct
 import pandas as pd
