@@ -1,5 +1,6 @@
 """
 Author: Eerikki Laitala
+Email: eerikki.laitala@gmail.com
 
 This program reads the binary file that my sensor setup outputs
 """
