@@ -1,5 +1,6 @@
 """
 Author: Eerikki Laitala
+Email: eerikki.laitala@gmail.com
 
 This program is written for the M5stickCplus2 
 It records IMU data at the frequency of 100Hz
